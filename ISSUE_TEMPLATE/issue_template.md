@@ -1,9 +1,9 @@
 ---
 name: "Issue template"
-about: 프로젝트 이슈 템플릿
+about: "프로젝트 이슈 템플릿입니다."
 title: "[FEAT] "
-labels: 
-assignees: 
+labels: ''
+assignees: ''
 ---
 
 ## 🔖 종류 (제목의 [TYPE]을 변경해주세요)
